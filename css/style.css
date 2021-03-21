@@ -110,6 +110,10 @@ p {
   text-align: left !important;
 }
 
+.links {
+  background: white;
+}
+
 @media (max-width: 576px) {
   h1,
   h2 {
@@ -124,11 +128,7 @@ p {
     text-align: center;
   }
 
-  p {
-    background: white;
-  }
-
-  img {
+  .index-image {
     display: none;
   }
 }
