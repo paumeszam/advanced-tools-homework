@@ -116,8 +116,16 @@ p {
     font-size: 48px;
   }
 
-  p {
+  h2.text-left {
+    text-align: center !important;
+  }
+
+  p.app-description {
     text-align: center;
+  }
+
+  p {
+    background: white;
   }
 
   img {
