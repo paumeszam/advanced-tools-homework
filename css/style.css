@@ -124,6 +124,10 @@ p {
     text-align: center !important;
   }
 
+  h2.contact-me {
+    font-size: 30px;
+  }
+
   p.app-description {
     text-align: center;
   }
