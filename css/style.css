@@ -120,6 +120,10 @@ p {
     font-size: 48px;
   }
 
+  h3 {
+    font-size: 20px;
+  }
+
   h2.text-left {
     text-align: center !important;
   }
@@ -134,5 +138,9 @@ p {
 
   .index-image {
     display: none;
+  }
+
+  .about-image {
+    margin: 0 auto;
   }
 }
